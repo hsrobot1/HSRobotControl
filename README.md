@@ -1,2 +1,3 @@
 # HSRobotControl
-Honey Select Robot Control Plugin
+
+Honey Select Robot Control Plugin v1.0
